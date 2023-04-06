@@ -1,34 +1,7 @@
-Free Download Source Code "Online Doctors Management System"
-
-FIRST Download
-
-1.XAMPP
-
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
-
-3"doctors_appointment"
-
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "doctors_appointment_db" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name doctors_appointment_db.SQL
-
-6. Import used_car_showroom_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/doctors_appointment
+**Doctor Appointment System** is a website designed to implement an online database system that caters to doctor’s appointments, scheduling, and reservation. In this era of pandemic medical clinics and hospitals imposed strict guidelines on the number of people who can enter their facility. Consultations to doctors are also very limited and can facilitate a limited number of patients. At present visiting a hospital or clinic for taking appointments is not so easy. It is time-consuming and also risky in this pandemic situation. Our online system for appointment and consultation is one of the solutions that can be used to give people a way how to contact their doctors and reserve an appointment for a consultation
 
 **LOGIN DETAILS** 
 
 Admin
 user: admin
 pass: admin123	
-
-create your own user
-
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
